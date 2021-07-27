@@ -1,2 +1,28 @@
-﻿body {
+﻿
+    p{
+         color : green;
+     }
+    
+
+   h1 {
+       color:aqua;
+       font-size : 36px;
+   }
+
+body {
+    background: yellow;
+    
+}
+
+.headers {
+    text-align: center;
+}
+#cool-text 
+{
+    color :blue;
+}
+
+#listcolor
+{
+    color: darkmagenta;
 }
